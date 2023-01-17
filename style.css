@@ -1,36 +1,13 @@
 h1{
-  text-align: center;
-  color: royalblue
-}
-p{
-  text-align: center
-}
-.div2{
-  text-align: center;
-  
-}
-input[type="submit"]{
-  background-color: royalblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  background-color: blue;
   color: white;
- width: 100%;
- outline: none;
- border: solid 1px gray;
- 
-}
-.submit3{
-   margin: 
-  auto;
-  width: 200px;
-   border-radius: 2px;
-   
 }
 
-button{
-  background-color: forestgreen;
-  color: white;
-  width: 100%px
+.tbl{
+  empty-cells: hide;
+  width: 100%;
+  text-align: center;
 }
-.button{
-  margin: auto;
-  width: 130px
-}
+
